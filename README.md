@@ -39,3 +39,4 @@ java -cp ".:json-20231013.jar" WeatherApp
 
 *output*:
 
+![Image](https://github.com/user-attachments/assets/36dcf52b-40cd-470f-aa95-c0d0bf353a98)
